@@ -3,7 +3,8 @@
   
 
 ## :computer: Sobre  
-- Projeto feito com intuito de colocar em pratica conceitos do Bootstrap <br> 
+
+- Projeto criado com a intenção de colocar em prática conceitos de estudos do Bootstrap!
 <em>
  
 ## :rocket: Techs
